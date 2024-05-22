@@ -10,8 +10,8 @@ In this course, You will practice more labs of C. This will help you to master t
 
 ## Scenarios
 
-|   Index | Name                                                     | Difficulty   | URL                                                                        |
-|---------|----------------------------------------------------------|--------------|----------------------------------------------------------------------------|
+|   Index | Name                                                    | Difficulty   | URL                                                                        |
+|---------|---------------------------------------------------------|--------------|----------------------------------------------------------------------------|
 |     001 | 🎯 Escape from the Maze                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/216602'>Start Challenge</a> |
 |     002 | 📖 Hello World, C!                                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/123263'>Start Lab</a>       |
 |     003 | 📖 Use of Gets Function in C Programming                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/123354'>Start Lab</a>       |
