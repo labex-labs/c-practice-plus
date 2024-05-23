@@ -10,7 +10,7 @@ In this course, You will practice more labs of C. This will help you to master t
 
 ## Scenarios
 
-|   Index | Name                                                    | Difficulty   | URL                                                                        |
+|   Index | Name                                                    | Difficulty   | Practice                                                                   |
 |---------|---------------------------------------------------------|--------------|----------------------------------------------------------------------------|
 |     001 | 🎯 Escape from the Maze                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/216602'>Start Challenge</a> |
 |     002 | 📖 Hello World, C!                                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/123263'>Start Lab</a>       |
@@ -148,4 +148,9 @@ In this course, You will practice more labs of C. This will help you to master t
 |     134 | 📖 Matrix Multiplication in C                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/123281'>Start Lab</a>       |
 |     135 | 📖 Create and Write to C Files                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/123319'>Start Lab</a>       |
 |     136 | 📖 Conversion Between Number Systems                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/123228'>Start Lab</a>       |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [C Free Tutorials](https://github.com/labex-labs/c-free-tutorials)
 
